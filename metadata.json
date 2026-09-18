@@ -1,0 +1,8 @@
+{
+  "name": "Soluciones Técnologicas",
+  "description": "Servicios profesionales de desarrollo web, landing pages de alta conversión, automatización de procesos y soporte técnico para negocios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
